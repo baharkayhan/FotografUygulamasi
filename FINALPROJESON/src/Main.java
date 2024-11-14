@@ -1,8 +1,4 @@
-/*
-22120205020 Bahar Kayhan
-22120205027 Beyza Nur Çağlar
-22120205028 Azra Dinler
-*/
+
 
 import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
